@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{FE8C394C-F9D2-434C-A5B6-B7E8A09FCFDE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ADOProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

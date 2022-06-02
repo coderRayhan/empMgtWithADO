@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe8c394c-f9d2-434c-a5b6-b7e8a09fcfde": {
+      "ProjectGuid": "fe8c394c-f9d2-434c-a5b6-b7e8a09fcfde",
+      "DisplayName": "ADOProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
